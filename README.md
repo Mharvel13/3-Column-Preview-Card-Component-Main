@@ -35,8 +35,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-q1TtmdHYjd)
+- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/3-Column-Preview-Card-Component-Main/)
+- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/3-Column-Preview-Card-Component-Main)
+
 
 ## My process
 
@@ -50,9 +53,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub Profile - [Mharvel13](https://github.com/Mharvel13)
+- Frontend Mentor - [Marvel Victor](https://www.frontendmentor.io/profile/Mharvel13)
+- Twitter - [Marvel](https://twitter.com/Mharvel_O)
 
 
 
